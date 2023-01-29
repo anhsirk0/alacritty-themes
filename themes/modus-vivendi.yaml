@@ -1,0 +1,29 @@
+# Colors (Modus Vivendi)
+colors:
+  bright:
+    black: '#1e1e1e'
+    blue: '#79a8ff'
+    cyan: '#4ae2f0'
+    green: '#70b900'
+    magenta: '#f78fe7'
+    red: '#ef8b50'
+    white: '#ffffff'
+    yellow: '#c0c530'
+  cursor:
+    cursor: '#a8a8a8'
+    text: '#ffffff'
+  normal:
+    black: '#191a1b'
+    blue: '#2fafff'
+    cyan: '#00d3d0'
+    green: '#44bc44'
+    magenta: '#feacd0'
+    red: '#ff8059'
+    white: '#ffffff'
+    yellow: '#d0bc00'
+  primary:
+    background: '#000000'
+    foreground: '#ffffff'
+  selection:
+    background: '#3c3c3c'
+    text: '#ffffff'

@@ -1,0 +1,29 @@
+# Colors Ef-trio-light
+colors:
+  bright:
+    black: '#f8f5ff'
+    blue: '#375cd6'
+    cyan: '#1f6fbf'
+    green: '#057800'
+    magenta: '#ad45ba'
+    red: '#c3303a'
+    white: '#4f3363'
+    yellow: '#a45f22'
+  cursor:
+    cursor: '#375cd6'
+    text: '#4f3363'
+  normal:
+    black: '#f0ecf4'
+    blue: '#5165e4'
+    cyan: '#3f6faf'
+    green: '#057800'
+    magenta: '#c035aa'
+    red: '#d03033'
+    white: '#4f3363'
+    yellow: '#b8532f'
+  primary:
+    background: '#f8f5ff'
+    foreground: '#4f3363'
+  selection:
+    background: '#eed0ff'
+    text: '#4f3363'

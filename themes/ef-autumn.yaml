@@ -1,0 +1,29 @@
+# Colors Ef-autumn
+colors:
+  normal:
+    black: '#0f0e06'
+    blue: '#379cf6'
+    cyan: '#4fb0cf'
+    green: '#2fa526'
+    magenta: '#d570af'
+    red: '#ef656a'
+    white: '#cfbcba'
+    yellow: '#c48702'
+  cursor:
+    cursor: '#ffaa33'
+    text: '#cfbcba'
+  bright:
+    black: '#1f1b19'
+    blue: '#6a88ff'
+    cyan: '#6fafff'
+    green: '#64aa0f'
+    magenta: '#e580ea'
+    red: '#f06a3f'
+    white: '#887c8a'
+    yellow: '#d0730f'
+  primary:
+    background: '#0f0e06'
+    foreground: '#cfbcba'
+  selection:
+    background: '#3f1020'
+    text: '#cfbcba'

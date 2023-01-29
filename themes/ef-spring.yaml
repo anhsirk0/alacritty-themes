@@ -1,0 +1,29 @@
+# Colors Ef-spring
+colors:
+  normal:
+    black: '#f6fff9'
+    blue: '#375cc6'
+    cyan: '#1f6fbf'
+    green: '#1a870f'
+    magenta: '#d5206f'
+    red: '#c42d2f'
+    white: '#34494a'
+    yellow: '#a45f22'
+  cursor:
+    cursor: '#bf005f'
+    text: '#34494a'
+  bright:
+    black: '#e8f0f0'
+    blue: '#265fbf'
+    cyan: '#0f7b8f'
+    green: '#007f68'
+    magenta: '#9435b4'
+    red: '#cf2f4f'
+    white: '#777294'
+    yellow: '#ae5a30'
+  primary:
+    background: '#f6fff9'
+    foreground: '#34494a'
+  selection:
+    background: '#d0e6ff'
+    text: '#34494a'
