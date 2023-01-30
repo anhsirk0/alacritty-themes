@@ -1,7 +1,7 @@
 # Colors Ef-winter
 colors:
   normal:
-    black: '#161926'
+    black: '#353554'
     blue: '#6a9fff'
     cyan: '#6fafdf'
     green: '#6aad0f'
@@ -13,7 +13,7 @@ colors:
     cursor: '#e580e0'
     text: '#b8c6d5'
   bright:
-    black: '#0f0b15'
+    black: '#807c9f'
     blue: '#3f95f6'
     cyan: '#4fbaef'
     green: '#29a444'

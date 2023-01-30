@@ -1,7 +1,7 @@
 # Colors Modus Operandi
 colors:
   normal:
-    black: '#e0e0e0'
+    black: '#d7d7d7'
     blue: '#2544bb'
     cyan: '#30517f'
     green: '#315b00'
@@ -10,10 +10,10 @@ colors:
     white: '#000000'
     yellow: '#70480f'
   cursor:
-    cursor: '#505050'
+    cursor: '#282828'
     text: '#000000'
   bright:
-    black: '#d7d7d7'
+    black: '#505050'
     blue: '#0031a9'
     cyan: '#00538b'
     green: '#005e00'

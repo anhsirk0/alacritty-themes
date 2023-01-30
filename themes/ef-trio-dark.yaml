@@ -1,7 +1,7 @@
 # Colors Ef-trio-dark
 colors:
   normal:
-    black: '#160f0f'
+    black: '#43353d'
     red: '#f48359'
     green: '#60b444'
     yellow: '#d4a052'
@@ -13,7 +13,7 @@ colors:
     cursor: '#ff99ff'
     text: '#d8cfd5'
   bright:
-    black: '#0f0b15'
+    black: '#908890'
     red: '#ff85aa'
     green: '#60bf88'
     yellow: '#ef9680'

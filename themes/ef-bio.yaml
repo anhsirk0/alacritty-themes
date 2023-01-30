@@ -7,7 +7,7 @@ colors:
     blue: "#37aff6"
     magenta: "#d38faf"
     cyan: "#6fc5ef"
-    black: '#111111'
+    black: '#404240'
     white: '#cfdfd5'
   cursor:
     cursor: '#35f038'
@@ -19,7 +19,7 @@ colors:
     blue: "#32cfef"
     magenta: "#af9fff"
     cyan: "#5dc0aa"
-    black: '#222522'
+    black: '#808f80'
     white: '#8fcfaf'
   primary:
     background: '#111111'

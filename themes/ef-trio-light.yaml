@@ -1,7 +1,7 @@
 # Colors Ef-trio-light
 colors:
-  bright:
-    black: '#f8f5ff'
+  normal:
+    black: '#d3d0d9'
     blue: '#375cd6'
     cyan: '#1f6fbf'
     green: '#057800'
@@ -12,8 +12,8 @@ colors:
   cursor:
     cursor: '#375cd6'
     text: '#4f3363'
-  normal:
-    black: '#f0ecf4'
+  bright:
+    black: '#786e74'
     blue: '#5165e4'
     cyan: '#3f6faf'
     green: '#057800'

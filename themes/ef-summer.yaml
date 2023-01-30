@@ -1,7 +1,7 @@
 # Colors Ef-summer
 colors:
   normal:
-    black: '#fff2f3'
+    black: '#cfb3c4'
     red: "#d3303a"
     green: "#217a3c"
     yellow: "#a45f22"
@@ -13,14 +13,14 @@ colors:
     cursor: '#cf0090'
     text: '#4f4073'
   bright:
-    black: '#f2e4ea'
+    black: '#786e74'
     red: "#d50f7f"
     green: "#007f68"
     yellow: "#b65050"
     blue: "#065fff"
     magenta: "#8e44f3"
     cyan: "#0f7b8f"
-    white: '#786e74'
+    white: '#af4988'
   primary:
     background: '#fff2f3'
     foreground: '#4f4073'

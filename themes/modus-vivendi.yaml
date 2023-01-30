@@ -1,7 +1,7 @@
 # Colors (Modus Vivendi)
 colors:
   bright:
-    black: '#1e1e1e'
+    black: '#a8a8a8'
     blue: '#79a8ff'
     cyan: '#4ae2f0'
     green: '#70b900'
@@ -10,10 +10,10 @@ colors:
     white: '#ffffff'
     yellow: '#c0c530'
   cursor:
-    cursor: '#a8a8a8'
+    cursor: '#f4f4f4'
     text: '#ffffff'
   normal:
-    black: '#191a1b'
+    black: '#323232'
     blue: '#2fafff'
     cyan: '#00d3d0'
     green: '#44bc44'

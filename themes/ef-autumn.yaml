@@ -1,7 +1,7 @@
 # Colors Ef-autumn
 colors:
   normal:
-    black: '#0f0e06'
+    black: '#46423f'
     blue: '#379cf6'
     cyan: '#4fb0cf'
     green: '#2fa526'
@@ -13,13 +13,13 @@ colors:
     cursor: '#ffaa33'
     text: '#cfbcba'
   bright:
-    black: '#1f1b19'
+    black: '#887c8a'
     blue: '#6a88ff'
     cyan: '#6fafff'
     green: '#64aa0f'
     magenta: '#e580ea'
     red: '#f06a3f'
-    white: '#887c8a'
+    white: '#70a89f'
     yellow: '#d0730f'
   primary:
     background: '#0f0e06'

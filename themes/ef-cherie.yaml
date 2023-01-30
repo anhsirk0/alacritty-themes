@@ -1,7 +1,7 @@
 # Colors Ef-cherie
 colors:
   normal:
-    black: '#190a0f'
+    black: '#594a4f'
     red: "#ff7359"
     green: "#60b444"
     yellow: "#e5b76f"
@@ -13,7 +13,7 @@ colors:
     cursor: '#ff99ff'
     text: '#d8cfd5'
   bright:
-    black: '#291f26'
+    black: '#808898'
     red: "#ff78aa"
     green: "#60bf88"
     yellow: "#f59280"
