@@ -40,7 +40,7 @@ $ ~/.config/alacritty/change-theme.pl bio
 ![ef-autumn](https://i.postimg.cc/NjmLWjMJ/ef-autumn.png)
 
 ## Ef-Trio-Light theme
-![ef-trio-light](https://i.postimg.cc/XN1Z5Pm8/ef-trio-light.png)
+![ef-trio-light](https://i.postimg.cc/zvzpBc2D/ef-trio-light.png)
 
 ## Ef-Trio-Dark theme
 ![ef-trio-dark](https://i.postimg.cc/W4mFJ1cF/ef-trio-dark.png)
