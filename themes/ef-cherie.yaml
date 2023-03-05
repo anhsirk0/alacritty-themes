@@ -13,7 +13,7 @@ colors:
     cursor: '#ff99ff'
     text: '#d8cfd5'
   bright:
-    black: '#808898'
+    black: '#5f509f'
     red: "#ff78aa"
     green: "#60bf88"
     yellow: "#f59280"
