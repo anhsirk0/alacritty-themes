@@ -1,7 +1,11 @@
 # Alacritty themes
 
-This repo has 10 themes  
-2 from modus-themes and 8 from ef-themes  
++ Git repo on Codeberg: <https://codeberg.org/anhsirk0/alacritty-themes>
+  - Mirrors:
+    + GitHub: <https://github.com/anhsirk0/alacritty-themes>
+
+This repo has 26 themes  
+2 from modus-themes and 24 from ef-themes  
 
 ### Usage
 Clone the repo and place the contents into ~/.config/alacritty/  
@@ -24,6 +28,8 @@ $ ~/.config/alacritty/change-theme.pl bio
 > This will change theme to the first theme that has bio in its name
 
 ### Colors
+Ef-themes pictures: https://protesilaos.com/emacs/ef-themes-pictures  
+
 ## Ef-Cherie theme
 ![ef-cherie](https://i.postimg.cc/43RHdhqR/ef-cherie.png)
 
