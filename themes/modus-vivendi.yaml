@@ -7,7 +7,7 @@ colors:
     green: '#70b900'
     magenta: '#f78fe7'
     red: '#ef8b50'
-    white: '#ffffff'
+    white: '#989898'
     yellow: '#c0c530'
   cursor:
     cursor: '#f4f4f4'

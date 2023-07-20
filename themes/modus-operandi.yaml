@@ -19,7 +19,7 @@ colors:
     green: '#005e00'
     magenta: '#721045'
     red: '#a60000'
-    white: '#000000'
+    white: '#595959'
     yellow: '#813e00'
   primary:
     background: '#ffffff'
