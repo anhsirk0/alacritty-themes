@@ -1,7 +1,7 @@
-# Colors Ef-trio-dark
+# Colors Ef-Trio-Dark
 colors:
   normal:
-    black: '#43353d'
+    black: '#2a2228'
     red: '#f48359'
     green: '#60b444'
     yellow: '#d4a052'
@@ -9,21 +9,21 @@ colors:
     magenta: '#d37faf'
     cyan: '#8fbaff'
     white: '#d8cfd5'
-  cursor:
-    cursor: '#ff99ff'
-    text: '#d8cfd5'
   bright:
-    black: '#908890'
+    black: '#564f55'
     red: '#ff85aa'
     green: '#60bf88'
     yellow: '#ef9680'
     blue: '#72afff'
     magenta: '#a698ef'
     cyan: '#8fcfdf'
-    white: '#afdacf'
+    white: '#908890'
+  cursor:
+    cursor: '#ff99ff'
+    text: '#160f0f'
   primary:
     background: '#160f0f'
     foreground: '#d8cfd5'
   selection:
     background: '#16304f'
-    text: '#b8c6d5'
+    text: '#d8cfd5'

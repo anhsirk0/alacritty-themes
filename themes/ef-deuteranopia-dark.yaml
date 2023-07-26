@@ -20,7 +20,7 @@ colors:
     white: '#7f8797'
   cursor:
     cursor: '#ffff00'
-    text: '#ddddee'
+    text: '#000a1f'
   primary:
     background: '#000a1f'
     foreground: '#ddddee'

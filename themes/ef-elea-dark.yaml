@@ -17,10 +17,10 @@ colors:
     blue: '#62cfef'
     magenta: '#cfaaff'
     cyan: '#60d5c2'
-    white: '#8fcfbb'
+    white: '#969faf'
   cursor:
     cursor: '#ef7fa8'
-    text: '#eaf2ef'
+    text: '#222524'
   primary:
     background: '#222524'
     foreground: '#eaf2ef'
