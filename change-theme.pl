@@ -6,6 +6,7 @@ my $theme;
 
 if (scalar @ARGV > 0) {
     my @all_themes = split "\n", `ls $dir/themes`;
+    @all_themes = sort { length($a) <=> length($b) } @all_themes;
     ($theme) = grep /$ARGV[0]/, @all_themes;
     if ($theme) {
         print "\'$theme\' theme selected\n";
