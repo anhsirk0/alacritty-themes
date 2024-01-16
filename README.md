@@ -7,11 +7,20 @@
 This repo has 32 themes  
 8 from modus-themes and 24 from ef-themes  
 
+### Notice
+Alacritty migrated its config format to toml (previously yaml)  
+All the old version related config/themes are now in `old-yaml-version-files`
+
 ### Usage
 Clone the repo and place the contents into ~/.config/alacritty/  
 Add these lines somewhere (preferrably at the end) in your `alacritty.yml` 
 
-```text
+#### For new verison
+```toml
+import = ["/home/user/.config/alacritty/themes/modus-vivendi.toml"]
+```
+#### For old alacritty verison
+```yaml
 import:
   - /home/user/.config/alacritty/themes/modus-vivendi.yaml
 ```
