@@ -1,7 +1,7 @@
 #! /usr/bin/env perl
 
 my $dir = $ENV{HOME} . "/.config/alacritty";
-my $config = $dir . "/alacritty.toml";
+my $config = $dir . "/alacritty.yml";
 my $theme;
 
 if (scalar @ARGV > 0) {
@@ -25,8 +25,8 @@ if ($theme) {
     open(FH, '<' . $config) or die "Unable to open\n";
     my $config_content;
     while(<FH>) {
-        if ($_ =~ m/^import.*$dir\/themes\/.*?.toml/) {
-            $config_content .= qq{import = ["$dir/themes/$theme"]\n};
+        if ($_ =~ /$dir\/themes\/.*.y[a]*ml$/) {
+            $config_content .= "  - $dir/themes/$theme\n";
             next;
         }
         $config_content .= $_;

@@ -1,0 +1,38 @@
+import = ["/home/krishna/.config/alacritty/themes/ef-kassio.toml"]
+
+[bell.command]
+args = ["Finished Task", "Alacritty"]
+program = "notify-send"
+
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[cursor.style]
+shape = "Beam"
+
+[font]
+size = 8.0
+
+[font.bold]
+family = "Iosevka Comfy"
+style = "Bold"
+
+[font.bold_italic]
+family = "Iosevka Comfy"
+style = "Bold Italic"
+
+[font.italic]
+family = "Iosevka Comfy"
+style = "Italic"
+
+[font.normal]
+family = "Iosevka Comfy"
+style = "Regular"
+
+[font.offset]
+x = 0
+y = 1
+
+[window.padding]
+x = 10
+y = 7
