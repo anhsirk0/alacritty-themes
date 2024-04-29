@@ -1,0 +1,28 @@
+# Colors Ef-Reverie
+[colors.normal]
+black = '#e5d6d4'
+red = '#ba2d2f'
+green = '#007a0a'
+yellow = '#87591f'
+blue = '#375cc6'
+magenta = '#9f4e74'
+cyan = '#3060af'
+white = '#4f204f'
+[colors.bright]
+black = '#b9aaa8'
+red = '#a83058'
+green = '#008250'
+yellow = '#906045'
+blue = '#265fbf'
+magenta = '#7755b4'
+cyan = '#0b6e8a'
+white = '#6f6877'
+[colors.cursor]
+cursor = '#9d5744'
+text = '#f3eddf'
+[colors.primary]
+background = '#f3eddf'
+foreground = '#4f204f'
+[colors.selection]
+background = '#e0d0ba'
+text = '#4f204f'

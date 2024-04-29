@@ -1,0 +1,28 @@
+# Colors Ef-Dream
+[colors.normal]
+black = '#322f34'
+red = '#ff6f6f'
+green = '#51b04f'
+yellow = '#c0b24f'
+blue = '#57b0ff'
+magenta = '#ffaacf'
+cyan = '#6fb3c0'
+white = '#efd5c5'
+[colors.bright]
+black = '#5b595e'
+red = '#e47980'
+green = '#3fc489'
+yellow = '#deb07a'
+blue = '#12b4ff'
+magenta = '#d0b0ff'
+cyan = '#65c5a8'
+white = '#8f8886'
+[colors.cursor]
+cursor = '#f3c09a'
+text = '#232025'
+[colors.primary]
+background = '#232025'
+foreground = '#efd5c5'
+[colors.selection]
+background = '#544a50'
+text = '#efd5c5'
