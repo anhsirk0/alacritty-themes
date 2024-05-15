@@ -26,3 +26,6 @@ foreground = '#dfd0d5'
 [colors.selection]
 background = '#293140'
 text = '#dfd0d5'
+[colors.search]
+matches = { foreground = '#dfd0d5', background = '#007faa' }
+focused_match = { foreground = '#dfd0d5', background = '#aa0010' }
