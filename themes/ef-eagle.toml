@@ -1,0 +1,28 @@
+# Colors Ef-Eagle
+[colors.normal]
+black = '#e4dbc0'
+red = '#882000'
+green = '#226022'
+yellow = '#6b4500'
+blue = '#113384'
+magenta = '#822478'
+cyan = '#125a7f'
+white = '#231a1f'
+[colors.bright]
+black = '#aea88e'
+red = '#8f0038'
+green = '#006e50'
+yellow = '#775228'
+blue = '#000080'
+magenta = '#50119f'
+cyan = '#00676f'
+white = '#685f53'
+[colors.cursor]
+cursor = '#774400'
+text = '#f1ecd0'
+[colors.primary]
+background = '#f1ecd0'
+foreground = '#231a1f'
+[colors.selection]
+background = '#ddc5af'
+text = '#231a1f'

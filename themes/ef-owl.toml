@@ -1,0 +1,28 @@
+# Colors Ef-Owl
+[colors.normal]
+black = '#373b3d'
+red = '#d67869'
+green = '#70bb70'
+yellow = '#c09f6f'
+blue = '#80a4e0'
+magenta = '#e5a0ea'
+cyan = '#8fb8ea'
+white = '#d0d0d0'
+[colors.bright]
+black = '#60676b'
+red = '#e4959f'
+green = '#60bd90'
+yellow = '#cf9f90'
+blue = '#72aff0'
+magenta = '#cfa0e8'
+cyan = '#7ac0b9'
+white = '#857f8f'
+[colors.cursor]
+cursor = '#afe6ef'
+text = '#292c2f'
+[colors.primary]
+background = '#292c2f'
+foreground = '#d0d0d0'
+[colors.selection]
+background = '#404f66'
+text = '#d0d0d0'
