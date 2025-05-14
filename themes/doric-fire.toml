@@ -1,0 +1,28 @@
+# Colors Doric-Fire
+[colors.normal]
+black = '#45372f'
+red = '#d09090'
+green = '#85c397'
+yellow = '#c4a992'
+blue = '#95afd2'
+magenta = '#c5a3b2'
+cyan = '#a5bfce'
+white = '#ffffff'
+[colors.bright]
+black = '#45372f'
+red = '#d09090'
+green = '#85c397'
+yellow = '#c4a992'
+blue = '#95afd2'
+magenta = '#c5a3b2'
+cyan = '#a5bfce'
+white = '#ffffff'
+[colors.cursor]
+cursor = '#fe7062'
+text = '#2a281d'
+[colors.primary]
+background = '#2a281d'
+foreground = '#ffffff'
+[colors.selection]
+background = '#742d33'
+text = '#ffffff'

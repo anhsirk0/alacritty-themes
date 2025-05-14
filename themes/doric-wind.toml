@@ -1,0 +1,28 @@
+# Colors Doric-Wind
+[colors.normal]
+black = '#d3dbd9'
+red = '#750000'
+green = '#00620f'
+yellow = '#5f4602'
+blue = '#353362'
+magenta = '#553372'
+cyan = '#35485e'
+white = '#000000'
+[colors.bright]
+black = '#d3dbd9'
+red = '#750000'
+green = '#00620f'
+yellow = '#5f4602'
+blue = '#353362'
+magenta = '#553372'
+cyan = '#35485e'
+white = '#000000'
+[colors.cursor]
+cursor = '#000077'
+text = '#e8f0e9'
+[colors.primary]
+background = '#e8f0e9'
+foreground = '#000000'
+[colors.selection]
+background = '#8fbbbe'
+text = '#000000'

@@ -1,0 +1,28 @@
+# Colors Doric-Light
+[colors.normal]
+black = '#e2e7e8'
+red = '#750000'
+green = '#056100'
+yellow = '#5f4602'
+blue = '#353362'
+magenta = '#553372'
+cyan = '#35485e'
+white = '#000000'
+[colors.bright]
+black = '#e2e7e8'
+red = '#750000'
+green = '#056100'
+yellow = '#5f4602'
+blue = '#353362'
+magenta = '#553372'
+cyan = '#35485e'
+white = '#000000'
+[colors.cursor]
+cursor = '#2266bb'
+text = '#ffffff'
+[colors.primary]
+background = '#ffffff'
+foreground = '#000000'
+[colors.selection]
+background = '#a0bcd0'
+text = '#000000'
