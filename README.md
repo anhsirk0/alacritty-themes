@@ -4,8 +4,8 @@
   - Mirrors:
     + GitHub: <https://github.com/anhsirk0/alacritty-themes>
 
-This repo has 40 themes  
-8 from modus-themes and 32 from ef-themes  
+This repo has 48 themes  
+8 from modus-themes, 6 from doric-themes and 34 from ef-themes  
 
 ### Notice
 Alacritty migrated its config format to toml (previously yaml)  
