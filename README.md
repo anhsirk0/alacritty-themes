@@ -7,22 +7,13 @@
 This repo has 48 themes  
 8 from modus-themes, 6 from doric-themes and 34 from ef-themes  
 
-### Notice
-Alacritty migrated its config format to toml (previously yaml)  
-All the old version related config/themes are now in `old-yaml-version-files`
-
 ### Usage
 Clone the repo and place the contents into ~/.config/alacritty/  
-Add these lines somewhere (preferrably at the end) in your `alacritty.yml` 
+Add these lines somewhere (preferrably at the end) in your `alacritty.toml` 
 
-#### For new verison
+#### update config file
 ```toml
 import = ["/home/user/.config/alacritty/themes/modus-vivendi.toml"]
-```
-#### For old alacritty verison
-```yaml
-import:
-  - /home/user/.config/alacritty/themes/modus-vivendi.yaml
 ```
 
 ## use change-theme.pl to change the themes (fzf required)
@@ -38,6 +29,7 @@ $ ~/.config/alacritty/change-theme.pl bio
 
 ### Colors
 Ef-themes pictures: https://protesilaos.com/emacs/ef-themes-pictures  
+Doric-themes pictures: https://protesilaos.com/emacs/doric-themes-pictures  
 
 ## Ef-Cherie theme
 ![ef-cherie](https://i.postimg.cc/43RHdhqR/ef-cherie.png)
@@ -72,4 +64,5 @@ Ef-themes pictures: https://protesilaos.com/emacs/ef-themes-pictures
 ## Thanks
 Modus themes - https://protesilaos.com/emacs/modus-themes-colors  
 Ef themes - https://protesilaos.com/emacs/ef-themes  
+Doric themes - https://protesilaos.com/emacs/doric-themes  
 
