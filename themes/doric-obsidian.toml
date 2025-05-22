@@ -1,28 +1,28 @@
-# Colors Doric-Fire
+# Colors Doric-Obsidian
 [colors.normal]
-black = '#45372f'
-red = '#d09090'
+black = '#2f2f2f'
+red = '#dba2a2'
 green = '#85c397'
 yellow = '#c4a992'
 blue = '#95afd2'
 magenta = '#c5a3b2'
 cyan = '#a5bfce'
-white = '#f0e5e0'
+white = '#e7e7e7'
 [colors.bright]
-black = '#45372f'
-red = '#d09090'
+black = '#2f2f2f'
+red = '#dba2a2'
 green = '#85c397'
 yellow = '#c4a992'
 blue = '#95afd2'
 magenta = '#c5a3b2'
 cyan = '#a5bfce'
-white = '#f0e5e0'
+white = '#e7e7e7'
 [colors.cursor]
-cursor = '#fe7062'
-text = '#2a281d'
+cursor = '#eeddbb'
+text = '#181818'
 [colors.primary]
-background = '#2a281d'
-foreground = '#f0e5e0'
+background = '#181818'
+foreground = '#e7e7e7'
 [colors.selection]
-background = '#742d33'
-text = '#f0e5e0'
+background = '#505050'
+text = '#e7e7e7'

@@ -1,28 +1,28 @@
 # Colors Doric-Water
 [colors.normal]
-black = '#404457'
+black = '#3e4050'
 red = '#dba2a2'
 green = '#85c397'
 yellow = '#c4a992'
 blue = '#95afd2'
 magenta = '#c5a3b2'
 cyan = '#a5bfce'
-white = '#ffffff'
+white = '#f2f5ff'
 [colors.bright]
-black = '#404457'
+black = '#3e4050'
 red = '#dba2a2'
 green = '#85c397'
 yellow = '#c4a992'
 blue = '#95afd2'
 magenta = '#c5a3b2'
 cyan = '#a5bfce'
-white = '#ffffff'
+white = '#f2f5ff'
 [colors.cursor]
-cursor = '#69eebb'
+cursor = '#99ddee'
 text = '#2a283d'
 [colors.primary]
 background = '#2a283d'
-foreground = '#ffffff'
+foreground = '#f2f5ff'
 [colors.selection]
 background = '#455eab'
-text = '#ffffff'
+text = '#f2f5ff'

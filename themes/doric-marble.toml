@@ -1,28 +1,28 @@
-# Colors Doric-Wind
+# Colors Doric-Marble
 [colors.normal]
-black = '#d3dbd9'
+black = '#dedede'
 red = '#750000'
-green = '#006500'
+green = '#056100'
 yellow = '#5f4602'
 blue = '#353362'
 magenta = '#553372'
 cyan = '#35485e'
-white = '#000f0f'
+white = '#202020'
 [colors.bright]
-black = '#d3dbd9'
+black = '#dedede'
 red = '#750000'
-green = '#006500'
+green = '#056100'
 yellow = '#5f4602'
 blue = '#353362'
 magenta = '#553372'
 cyan = '#35485e'
-white = '#000f0f'
+white = '#202020'
 [colors.cursor]
-cursor = '#10600b'
-text = '#e8f0e9'
+cursor = '#403030'
+text = '#ededed'
 [colors.primary]
-background = '#e8f0e9'
-foreground = '#000f0f'
+background = '#ededed'
+foreground = '#202020'
 [colors.selection]
-background = '#94c2bf'
-text = '#000f0f'
+background = '#b0b0b0'
+text = '#202020'

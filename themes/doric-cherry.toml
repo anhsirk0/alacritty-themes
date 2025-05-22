@@ -1,28 +1,28 @@
-# Colors Doric-Wind
+# Colors Doric-Cherry
 [colors.normal]
-black = '#d3dbd9'
+black = '#e3d8db'
 red = '#750000'
-green = '#006500'
+green = '#056100'
 yellow = '#5f4602'
 blue = '#353362'
 magenta = '#553372'
 cyan = '#35485e'
-white = '#000f0f'
+white = '#311926'
 [colors.bright]
-black = '#d3dbd9'
+black = '#e3d8db'
 red = '#750000'
-green = '#006500'
+green = '#056100'
 yellow = '#5f4602'
 blue = '#353362'
 magenta = '#553372'
 cyan = '#35485e'
-white = '#000f0f'
+white = '#311926'
 [colors.cursor]
-cursor = '#10600b'
-text = '#e8f0e9'
+cursor = '#a02050'
+text = '#f7edf1'
 [colors.primary]
-background = '#e8f0e9'
-foreground = '#000f0f'
+background = '#f7edf1'
+foreground = '#311926'
 [colors.selection]
-background = '#94c2bf'
-text = '#000f0f'
+background = '#cc95b7'
+text = '#311926'
