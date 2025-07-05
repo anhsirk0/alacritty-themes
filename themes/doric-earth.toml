@@ -1,28 +1,28 @@
 # Colors Doric-Earth
 [colors.normal]
-black = '#dfd8c8'
+black = '#dfdfce'
 red = '#750000'
 green = '#056100'
 yellow = '#5f4602'
 blue = '#353362'
 magenta = '#553372'
 cyan = '#35485e'
-white = '#1b0d10'
+white = '#30232e'
 [colors.bright]
-black = '#dfd8c8'
+black = '#dfdfce'
 red = '#750000'
 green = '#056100'
 yellow = '#5f4602'
 blue = '#353362'
 magenta = '#553372'
 cyan = '#35485e'
-white = '#1b0d10'
+white = '#30232e'
 [colors.cursor]
 cursor = '#770000'
 text = '#f0eddf'
 [colors.primary]
 background = '#f0eddf'
-foreground = '#1b0d10'
+foreground = '#30232e'
 [colors.selection]
 background = '#c09fa0'
-text = '#1b0d10'
+text = '#30232e'

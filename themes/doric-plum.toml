@@ -1,6 +1,6 @@
 # Colors Doric-Plum
 [colors.normal]
-black = '#382b4e'
+black = '#302f3c'
 red = '#dba2a2'
 green = '#85c397'
 yellow = '#c4a992'
@@ -9,7 +9,7 @@ magenta = '#c5a3b2'
 cyan = '#a5bfce'
 white = '#e2d7e7'
 [colors.bright]
-black = '#382b4e'
+black = '#302f3c'
 red = '#dba2a2'
 green = '#85c397'
 yellow = '#c4a992'
@@ -24,5 +24,5 @@ text = '#221832'
 background = '#221832'
 foreground = '#e2d7e7'
 [colors.selection]
-background = '#604179'
+background = '#5e4170'
 text = '#e2d7e7'

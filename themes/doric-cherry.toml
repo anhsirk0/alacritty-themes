@@ -1,28 +1,28 @@
 # Colors Doric-Cherry
 [colors.normal]
-black = '#e3d8db'
+black = '#e5dde0'
 red = '#750000'
 green = '#056100'
 yellow = '#5f4602'
 blue = '#353362'
 magenta = '#553372'
 cyan = '#35485e'
-white = '#311926'
+white = '#35292f'
 [colors.bright]
-black = '#e3d8db'
+black = '#e5dde0'
 red = '#750000'
 green = '#056100'
 yellow = '#5f4602'
 blue = '#353362'
 magenta = '#553372'
 cyan = '#35485e'
-white = '#311926'
+white = '#35292f'
 [colors.cursor]
 cursor = '#a02050'
 text = '#f7edf1'
 [colors.primary]
 background = '#f7edf1'
-foreground = '#311926'
+foreground = '#35292f'
 [colors.selection]
 background = '#cc95b7'
-text = '#311926'
+text = '#35292f'

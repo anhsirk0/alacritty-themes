@@ -1,6 +1,6 @@
 # Colors Doric-Marble
 [colors.normal]
-black = '#dedede'
+black = '#dfdfdf'
 red = '#750000'
 green = '#056100'
 yellow = '#5f4602'
@@ -9,7 +9,7 @@ magenta = '#553372'
 cyan = '#35485e'
 white = '#202020'
 [colors.bright]
-black = '#dedede'
+black = '#dfdfdf'
 red = '#750000'
 green = '#056100'
 yellow = '#5f4602'

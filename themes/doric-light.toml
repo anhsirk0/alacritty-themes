@@ -1,6 +1,6 @@
 # Colors Doric-Light
 [colors.normal]
-black = '#e2e7e8'
+black = '#efeff2'
 red = '#750000'
 green = '#056100'
 yellow = '#5f4602'
@@ -9,7 +9,7 @@ magenta = '#553372'
 cyan = '#35485e'
 white = '#000000'
 [colors.bright]
-black = '#e2e7e8'
+black = '#efeff2'
 red = '#750000'
 green = '#056100'
 yellow = '#5f4602'
