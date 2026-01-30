@@ -4,8 +4,8 @@
   - Mirrors:
     + GitHub: <https://github.com/anhsirk0/alacritty-themes>
 
-This repo has 52 themes  
-8 from modus-themes, 10 from doric-themes and 34 from ef-themes  
+This repo has 60 themes  
+8 from modus-themes, 16 from doric-themes and 36 from ef-themes  
 
 ### Usage
 Clone the repo and place the contents into ~/.config/alacritty/  
