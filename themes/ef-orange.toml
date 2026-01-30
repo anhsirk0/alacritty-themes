@@ -1,0 +1,28 @@
+# Colors Ef-Orange
+[colors.normal]
+black = '#f7e5b6'
+red = '#ba2d2f'
+green = '#007a0a'
+yellow = '#a05a22'
+blue = '#375cc6'
+magenta = '#ba3e54'
+cyan = '#467080'
+white = '#6c4631'
+[colors.bright]
+black = '#c9b088'
+red = '#cf2030'
+green = '#2f783f'
+yellow = '#aa4f30'
+blue = '#265fbf'
+magenta = '#8448aa'
+cyan = '#0f738f'
+white = '#6f6a70'
+[colors.cursor]
+cursor = '#cf5f00'
+text = '#ffedc9'
+[colors.primary]
+background = '#ffedc9'
+foreground = '#6c4631'
+[colors.selection]
+background = '#eeb48f'
+text = '#6c4631'

@@ -15,7 +15,7 @@ green = '#008058'
 yellow = '#765040'
 blue = '#065fff'
 magenta = '#6052cf'
-cyan = '#1f77bb'
+cyan = '#1477b2'
 white = '#70627f'
 [colors.cursor]
 cursor = '#0000bb'

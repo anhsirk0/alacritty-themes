@@ -1,0 +1,28 @@
+# Colors Ef-Fig
+[colors.normal]
+black = '#432e4e'
+red = '#ef797f'
+green = '#7fbb3f'
+yellow = '#e4c53f'
+blue = '#57aff6'
+magenta = '#ffb2d6'
+cyan = '#5fc0dc'
+white = '#e4d3e1'
+[colors.bright]
+black = '#6a586e'
+red = '#e088af'
+green = '#79d081'
+yellow = '#eec27f'
+blue = '#62cff7'
+magenta = '#afb1ff'
+cyan = '#80dfbf'
+white = '#9d9d9d'
+[colors.cursor]
+cursor = '#e0646a'
+text = '#3b2043'
+[colors.primary]
+background = '#3b2043'
+foreground = '#e4d3e1'
+[colors.selection]
+background = '#643270'
+text = '#e4d3e1'
