@@ -1,28 +1,28 @@
-# Colors Doric-Dark
+# Colors Doric-Mermaid
 [colors.normal]
-black = '#332d38'
+black = '#3c3e55'
 red = '#eca28f'
-green = '#b9d0aa'
+green = '#a0d0ba'
 yellow = '#c0b080'
 blue = '#9fbfe7'
 magenta = '#e9acbf'
 cyan = '#a0c0d0'
-white = '#ffffff'
+white = '#dde0f8'
 [colors.bright]
-black = '#332d38'
+black = '#3c3e55'
 red = '#eca28f'
-green = '#b9d0aa'
+green = '#a0d0ba'
 yellow = '#c0b080'
 blue = '#9fbfe7'
 magenta = '#e9acbf'
 cyan = '#a0c0d0'
-white = '#ffffff'
+white = '#dde0f8'
 [colors.cursor]
-cursor = '#ccaaee'
-text = '#000000'
+cursor = '#e08ca0'
+text = '#2a2f48'
 [colors.primary]
-background = '#000000'
-foreground = '#ffffff'
+background = '#2a2f48'
+foreground = '#dde0f8'
 [colors.selection]
-background = '#50447f'
-text = '#ffffff'
+background = '#424381'
+text = '#dde0f8'

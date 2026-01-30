@@ -1,0 +1,28 @@
+# Colors Doric-Oak
+[colors.normal]
+black = '#d5c9b5'
+red = '#982500'
+green = '#226700'
+yellow = '#595000'
+blue = '#103077'
+magenta = '#700054'
+cyan = '#005460'
+white = '#3a2018'
+[colors.bright]
+black = '#d5c9b5'
+red = '#982500'
+green = '#226700'
+yellow = '#595000'
+blue = '#103077'
+magenta = '#700054'
+cyan = '#005460'
+white = '#3a2018'
+[colors.cursor]
+cursor = '#497020'
+text = '#e0d8c7'
+[colors.primary]
+background = '#e0d8c7'
+foreground = '#3a2018'
+[colors.selection]
+background = '#b1bf88'
+text = '#3a2018'

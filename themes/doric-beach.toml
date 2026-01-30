@@ -1,0 +1,28 @@
+# Colors Doric-Beach
+[colors.normal]
+black = '#ded4c0'
+red = '#902000'
+green = '#006000'
+yellow = '#595000'
+blue = '#103077'
+magenta = '#700054'
+cyan = '#005460'
+white = '#213937'
+[colors.bright]
+black = '#ded4c0'
+red = '#902000'
+green = '#006000'
+yellow = '#595000'
+blue = '#103077'
+magenta = '#700054'
+cyan = '#005460'
+white = '#213937'
+[colors.cursor]
+cursor = '#3f8cab'
+text = '#eae3d8'
+[colors.primary]
+background = '#eae3d8'
+foreground = '#213937'
+[colors.selection]
+background = '#abd2c9'
+text = '#213937'

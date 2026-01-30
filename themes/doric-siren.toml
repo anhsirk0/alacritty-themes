@@ -1,28 +1,28 @@
-# Colors Doric-Marble
+# Colors Doric-Siren
 [colors.normal]
-black = '#dfdfdf'
+black = '#c2d1df'
 red = '#a01010'
 green = '#106710'
 yellow = '#60400f'
 blue = '#103077'
 magenta = '#700d50'
 cyan = '#005355'
-white = '#202020'
+white = '#001020'
 [colors.bright]
-black = '#dfdfdf'
+black = '#c2d1df'
 red = '#a01010'
 green = '#106710'
 yellow = '#60400f'
 blue = '#103077'
 magenta = '#700d50'
 cyan = '#005355'
-white = '#202020'
+white = '#001020'
 [colors.cursor]
-cursor = '#403030'
-text = '#ededed'
+cursor = '#2040a0'
+text = '#d9e0ed'
 [colors.primary]
-background = '#ededed'
-foreground = '#202020'
+background = '#d9e0ed'
+foreground = '#001020'
 [colors.selection]
-background = '#b0b0b0'
-text = '#202020'
+background = '#90b0e0'
+text = '#001020'

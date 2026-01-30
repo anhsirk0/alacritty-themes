@@ -1,28 +1,28 @@
-# Colors Doric-Dark
+# Colors Doric-Valley
 [colors.normal]
-black = '#332d38'
+black = '#484040'
 red = '#eca28f'
 green = '#b9d0aa'
-yellow = '#c0b080'
+yellow = '#c0b060'
 blue = '#9fbfe7'
 magenta = '#e9acbf'
 cyan = '#a0c0d0'
-white = '#ffffff'
+white = '#e0d5b7'
 [colors.bright]
-black = '#332d38'
+black = '#484040'
 red = '#eca28f'
 green = '#b9d0aa'
-yellow = '#c0b080'
+yellow = '#c0b060'
 blue = '#9fbfe7'
 magenta = '#e9acbf'
 cyan = '#a0c0d0'
-white = '#ffffff'
+white = '#e0d5b7'
 [colors.cursor]
-cursor = '#ccaaee'
-text = '#000000'
+cursor = '#94d0eb'
+text = '#383035'
 [colors.primary]
-background = '#000000'
-foreground = '#ffffff'
+background = '#383035'
+foreground = '#e0d5b7'
 [colors.selection]
-background = '#50447f'
-text = '#ffffff'
+background = '#3d5e57'
+text = '#e0d5b7'

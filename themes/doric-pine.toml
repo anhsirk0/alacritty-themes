@@ -1,0 +1,28 @@
+# Colors Doric-Pine
+[colors.normal]
+black = '#40503d'
+red = '#e8a28f'
+green = '#a2d09a'
+yellow = '#c4b980'
+blue = '#98bae0'
+magenta = '#e9acbf'
+cyan = '#a0c0d0'
+white = '#d0e2c8'
+[colors.bright]
+black = '#40503d'
+red = '#e8a28f'
+green = '#a2d09a'
+yellow = '#c4b980'
+blue = '#98bae0'
+magenta = '#e9acbf'
+cyan = '#a0c0d0'
+white = '#d0e2c8'
+[colors.cursor]
+cursor = '#c0a27a'
+text = '#303f2d'
+[colors.primary]
+background = '#303f2d'
+foreground = '#d0e2c8'
+[colors.selection]
+background = '#70523a'
+text = '#d0e2c8'
